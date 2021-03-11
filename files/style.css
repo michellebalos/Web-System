@@ -1,0 +1,22 @@
+  
+*{
+    font-style:normal;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  img{
+    width: 195px;
+  } 
+  .right{
+    float: right;
+  }
+  
+  .UC{
+    text-transform:uppercase;
+    background-color: rgb(194, 192, 192);
+  }
+  
+  
+  #Colorful{
+    text-align: center;
+    color: rgb(13, 65, 65);
+  }
